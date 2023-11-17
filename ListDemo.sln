@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListDemo", "ListDemo\ListDemo.vcxproj", "{667C5612-5A05-4FB5-AD3E-6AD35CD55221}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{631B3C5C-1AD0-4BF4-AA72-EBBC51F95CE1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667C5612-5A05-4FB5-AD3E-6AD35CD55221}.Debug|x64.ActiveCfg = Debug|x64
+		{667C5612-5A05-4FB5-AD3E-6AD35CD55221}.Debug|x64.Build.0 = Debug|x64
+		{667C5612-5A05-4FB5-AD3E-6AD35CD55221}.Debug|x86.ActiveCfg = Debug|Win32
+		{667C5612-5A05-4FB5-AD3E-6AD35CD55221}.Debug|x86.Build.0 = Debug|Win32
+		{667C5612-5A05-4FB5-AD3E-6AD35CD55221}.Release|x64.ActiveCfg = Release|x64
+		{667C5612-5A05-4FB5-AD3E-6AD35CD55221}.Release|x64.Build.0 = Release|x64
+		{667C5612-5A05-4FB5-AD3E-6AD35CD55221}.Release|x86.ActiveCfg = Release|Win32
+		{667C5612-5A05-4FB5-AD3E-6AD35CD55221}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1E8BC4-FC90-4743-BE3E-B22D0A0D1D31}
+	EndGlobalSection
+EndGlobal
